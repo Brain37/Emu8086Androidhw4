@@ -58,7 +58,7 @@
                 android:text="value of AX"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView3"
+                android:id="@+id/axRegTV"
                 android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
@@ -77,7 +77,7 @@
                 android:text="value of BX"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView5"
+                android:id="@+id/bxRegTV"
                 android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
@@ -96,7 +96,7 @@
                 android:text="value of CX"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView7"
+                android:id="@+id/cxRegTV"
                 android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
@@ -115,7 +115,7 @@
                 android:text="value of DX"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView9"
+                android:id="@+id/dxRegTV"
                 android:layout_weight="1"/>
         </LinearLayout>
     </LinearLayout>
